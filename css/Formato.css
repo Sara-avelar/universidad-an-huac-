@@ -1,0 +1,97 @@
+.fila1 {
+   background-size: #DED6D6;
+}
+
+.centro {
+  font-size: 40PX;
+  font-style: italic;
+
+}
+
+nav a {
+  margin-top: 20px;
+  padding-left: 35px;
+  color:#800080;
+  padding-right:  17px;
+  border-right-style: solid;
+  border-left-width: medium;
+  }
+
+  .logo {
+    float:left;
+  }
+
+  .medico{
+    float: left;
+  }
+
+.parrafos {
+  display: flex;
+   background-size: #DED6D6;
+background-color: #DFDCDC;
+  text-align: center;
+}
+.UNIVERSIDAD{
+  font-style: italic;
+  font-size: 40px;
+  text-align: center;
+}
+.parra{
+      color: #000;
+    	font-size: 20px;
+      text-align: justify;
+
+}
+.carrera{
+  text-align: center;
+  padding-left: 50px;
+  padding-right: 50px;
+  background-color: #EB6B06;
+font-size: 25px;
+}
+
+table p{
+  text-align:justify;
+  padding: 8px;
+  margin: 15px;
+
+}
+table td{
+  border-left-style: dotted;
+}
+.parra .titulo {
+  color:#EB0D0D;
+}
+
+.Imagen{
+
+  float: left;
+}
+.tema{
+  text-align: center;
+
+}
+
+.imag{
+  float: right;
+}
+.horario{
+  background-color:#EB6B06;
+}
+.no {
+  font-style: italic;
+  font-size: 100px;
+  line-height: 45px;
+  margin-top: 250px;
+
+}
+
+.footer-copyright{
+    background-color: #E7DFDF;
+    height: 45px;
+    line-height: 45px;
+    color: #000;
+    text-align: center;
+    font-size: 17px;
+
+}
